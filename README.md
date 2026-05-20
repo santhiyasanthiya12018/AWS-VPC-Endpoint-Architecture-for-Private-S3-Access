@@ -24,22 +24,34 @@ Key Feature:
 
 AWS Services Use:
 
-•	Amazon VPC
+•	Amazon pvc
+
 •	Amazon S3
-•	VPC Gateway Endpoint
-•	EC2 Instance
-•	Route Tables
-•	Security Groups
-•	IAM Roles and Folic ies
+
+•	VPC Gateway End point
+
+•	EC2 Instances
+
+•	Route Table's
+
+•	Security Group's
+
+•	IAM Roles and policies
 
 Architecture Work flow:
 
-•	Create a private VPC with private subnets
-•	Launch EC2 instances inside private subnet
-•	Configure route tables for private routing
-•	Create an S3 Gateway VPC Endpoint
-•	Attach endpoint to route tables
-•	Assign IAM permissions for S3 access
+•	Create a private VPC with private subjects.
+
+•	Launch EC2 instances inside private subnets.
+
+•	Configure route tables for private routings.
+
+•	Create an S3 Gateway VPC End point.
+
+•	Attach endpoint to route tables.
+
+•	Assign IAM permissions for S3 Access.
+
 •	Verify secure private communication with S3.
 
 Security Benefit:
