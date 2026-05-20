@@ -32,9 +32,9 @@ AWS Services Use:
 
 •	EC2 Instances
 
-•	Route Table's
+•	Route Tables
 
-•	Security Group's
+•	Security Groups
 
 •	IAM Roles and policies
 
@@ -68,4 +68,4 @@ Successfully designed and deployed a secure AWS networking architecture enabling
  
 Authority
 
-SANTHIYA  N
+SANTHIYA N
